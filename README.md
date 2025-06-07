@@ -1,18 +1,19 @@
 
--  **Visualización dinámica de ejecución**:
+- Visualización dinámica de ejecución:
 - Diagrama de Gantt generado visualmente
 - Scroll vertical disponible
 - Métricas mostradas al finalizar:
   - Tiempo promedio de espera
   - Tiempo promedio de retorno
 
-###  Simulador de Sincronización
--  *No implementado en esta versión* (mutex/semaphore y acciones sobre recursos)
+### B. Simulador de Sincronización
+- No implementado en esta versión (mutex/semaphore y acciones sobre recursos)
 
 ---
 
-##  Interfaz Gráfica (GUI)
-- Selección entre **calendarización** y **sincronización**
+## Interfaz Gráfica (GUI)
+
+- Selección entre calendarización y sincronización
 - Elección de algoritmos mediante checkboxes
 - Campo de entrada para configurar quantum
 - Botones para:
@@ -24,7 +25,7 @@
 
 ---
 
-## Formatos de Entrada
+## Formato del archivo de entrada
 
 ### Archivo de Procesos (`procesos.txt`)
 ```txt
