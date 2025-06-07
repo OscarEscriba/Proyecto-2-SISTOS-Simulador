@@ -4,6 +4,7 @@
 **Universidad del Valle de Guatemala – Sección 30**  
 **Docente:** Juan Carlos Canteo Boix  
 **Integrantes:** Cindy Gualim, Oscar Escriba 
+
 **Fecha de entrega:** 6 de junio de 2025
 
 ---
